@@ -9,7 +9,11 @@ Download the dictionary you like and unzip it to `~/Library/Dictionaries`. You a
 
 自己用 MarginNote 阅读英文著作，不懂的单词就三指点击（个人感觉相比其余软件，还是原生的词典方便、适应范围广），看下词频和简短的汉语释义（因为重点在阅读，仔细找释义会过分打断思路），若符合设定的词频，就标注原句和单词，再统一导出为 Anki 包。大部头的词典我也有转过，后来发现在快速取词界面里，释文太长，阅读过程中不方便，就弃用了。（导出到 Anki 里可以用 [FastWordQuery](https://github.com/sth2018/FastWordQuery) 等插件批量查词，支持的词典格式是 Mdict）
 
-使用 [ilius/pyglossary](https://github.com/ilius/pyglossary/) 转换
+![sample](sample.png)
+
+## Tool
+
+converted by [ilius/pyglossary](https://github.com/ilius/pyglossary/) 
 
 ## See More
 
