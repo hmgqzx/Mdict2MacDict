@@ -3,7 +3,7 @@
 
 ## Usage
 
-Download the dictionary you like and unzip it to `~/Library/Dictionaries`. You also can **Open  Dictionaries Folder** on your Mac's Dictionary app.
+Download the dictionary you like and unzip it to `~/Library/Dictionaries`. You can also **Open Dictionaries Folder** on your Mac's Dictionary app.
 
 ## Background
 
