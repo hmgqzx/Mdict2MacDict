@@ -23,8 +23,7 @@ converted by [ilius/pyglossary](https://github.com/ilius/pyglossary/)
 
 [单词释义比例词典（2017-4-26 更新 v3 增加词性比例） - MDict 词库资源区 · MDX Dictionary - 掌上百科](https://www.pdawiki.com/forum/thread-20533-1-1.html?x=286670)
 
-欲搜索更多词典,请查看论坛：
+欲搜索更多词典,请查看论坛：[掌上百科 - Powered by Discuz!](https://www.pdawiki.com/forum/?fromuid=286670)
 
 (论坛里有转换的一些大部头词典，如柯林斯等，因涉嫌版权问题，不转发在此处)
 
-[掌上百科 - Powered by Discuz!](https://www.pdawiki.com/forum/?fromuid=286670)
